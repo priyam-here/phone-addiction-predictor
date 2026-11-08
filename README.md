@@ -18,7 +18,7 @@ All four members contributed functional code to the machine learning pipeline.
 ```text
 phone-addiction-predictor/
 ├── data/
-│   └── phone\_addiction\_dataset.csv
+│   └── phone_addiction_dataset.csv
 ├── src/                                                     
 ├── outputs/                         
 ├── requirements.txt                 
