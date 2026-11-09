@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import os
+import seaborn as sns
 
 def generate_visualizations(y_test, y_pred, model, feature_names, raw_df, output_dir='outputs'):
     os.makedirs(output_dir, exist_ok=True)
