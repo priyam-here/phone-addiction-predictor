@@ -15,6 +15,20 @@ def main():
     
     model, y_pred, metrics = train_and_evaluate(X_train, X_test, y_train, y_test)
 
+    print("\n--- CORE FEATURE STATISTICS ---")
+    core_features = raw_dataframe[['Daily_Usage_Hours', 'Sleep_Hours', 'Addiction_Level']]
+        
+    print("1. Summary Statistics (Mean, Std, Min, Max):")
+    print(core_features.describe().round(2))
+        
+    print("\n2. Medians:")
+    print(core_features.median().round(2))
+
+    print("\n3. Covariance Matrix:")
+    print(core_features.cov().round(2))
+
+    print("-------------------------------\n")
+    
     print("-> Generating Post-Processing EDA Correlation Heatmap...")
     plot_correlation_heatmap(df_encoded)
 
