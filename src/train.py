@@ -1,5 +1,5 @@
 from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 
 def train_and_evaluate(X_train, X_test, y_train, y_test):
     model = LinearRegression()
@@ -9,7 +9,7 @@ def train_and_evaluate(X_train, X_test, y_train, y_test):
     
     metrics = {
         'test_r2': r2_score(y_test, y_pred_test),
-        'test_mse': mean_squared_error(y_test, y_pred_test)
+        'test_mse': mean_squared_error(y_test, y_pred_test),
+        'test_mae': mean_absolute_error(y_test, y_pred_test)
     }
-    
     return model, y_pred_test, metrics
