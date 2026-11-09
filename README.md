@@ -40,7 +40,7 @@ Tested on Python 3.10+ (Windows, macOS, Ubuntu).
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/[YOUR-GITHUB-USERNAME]/phone-addiction-predictor.git
+git clone https://github.com/priyam-here/phone-addiction-predictor.git
 cd phone-addiction-predictor
 ```
 
