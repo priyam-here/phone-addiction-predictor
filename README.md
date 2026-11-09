@@ -58,6 +58,10 @@ venv\Scripts\activate
 ```bash
 source venv/bin/activate
 ```
+**4. Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
 ## How to Run
 
 1. Run the main script from the root directory:
