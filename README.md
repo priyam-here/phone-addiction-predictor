@@ -146,7 +146,7 @@ Pipeline complete.
 
 ## Links & Deliverables
 
-* **Presentation Slides (5):**
+* **Presentation Slides (5):** Presentation.pdf
 * **Project Demo Video (max 5:00):**
 
 ## AI-Use Disclosure
