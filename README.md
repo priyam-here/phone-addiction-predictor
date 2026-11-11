@@ -15,8 +15,8 @@ Predicts a user's phone addiction level using demographic, psychological, and sm
 
 ## Links & Deliverables
 
-* **Presentation Slides (5):** [Presentation](Presentation.pdf)
-* **Project Demo Video (max 5:00):** https://drive.google.com/file/d/1POZFf_d2QSWiQN9p-_zOZELGI887zomo/view?usp=drivesdk
+* **Presentation Slides :** [Presentation](Presentation.pdf)
+* **Project Demo Video :** https://drive.google.com/file/d/1POZFf_d2QSWiQN9p-_zOZELGI887zomo/view?usp=drivesdk
 
 ## Project Structure
 
