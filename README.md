@@ -147,7 +147,7 @@ Pipeline complete.
 ## Links & Deliverables
 
 * **Presentation Slides (5):** [Presentation](Presentation.pdf)
-* **Project Demo Video (max 5:00):**
+* **Project Demo Video (max 5:00):** https://drive.google.com/file/d/1POZFf_d2QSWiQN9p-_zOZELGI887zomo/view?usp=drivesdk
 
 ## AI-Use Disclosure
 
