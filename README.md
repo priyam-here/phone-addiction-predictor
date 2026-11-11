@@ -13,6 +13,11 @@ Predicts a user's phone addiction level using demographic, psychological, and sm
 
 *All four members contributed functional Python code to the machine learning pipeline (see commit history).*
 
+## Links & Deliverables
+
+* **Presentation Slides (5):** [Presentation](Presentation.pdf)
+* **Project Demo Video (max 5:00):** https://drive.google.com/file/d/1POZFf_d2QSWiQN9p-_zOZELGI887zomo/view?usp=drivesdk
+
 ## Project Structure
 
 ```text
@@ -143,11 +148,6 @@ Conclusion: Train and Test metrics are nearly identical, proving NO OVERFITTING.
 Generating visualizations in 'outputs/' directory...
 Pipeline complete.
 ```
-
-## Links & Deliverables
-
-* **Presentation Slides (5):** [Presentation](Presentation.pdf)
-* **Project Demo Video (max 5:00):** https://drive.google.com/file/d/1POZFf_d2QSWiQN9p-_zOZELGI887zomo/view?usp=drivesdk
 
 ## AI-Use Disclosure
 
